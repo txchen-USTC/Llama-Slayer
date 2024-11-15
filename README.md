@@ -1,6 +1,6 @@
 # Llama_Slayer
-Official code for our paper "Llama SLayer 8B: Shallow Layers Hold the Key to Knowledge Injection", accepted by EMNLP 2024.
-[https://arxiv.org/pdf/2410.02330?]
+Official code for our paper "Llama SLayer 8B: Shallow Layers Hold the Key to Knowledge Injection", accepted by EMNLP Findings 2024.
+[https://aclanthology.org/2024.findings-emnlp.347.pdf]
 
 ## Highlight
 
@@ -23,10 +23,11 @@ Official code for our paper "Llama SLayer 8B: Shallow Layers Hold the Key to Kno
 
 Please cite our paper if you find the repository helpful.
 ```
-@article{chen2024llama,
+@inproceedings{chen2024llama,
   title={Llama SLayer 8B: Shallow Layers Hold the Key to Knowledge Injection},
   author={Chen, Tianxiang and Tan, Zhentao and Gong, Tao and Wu, Yue and Chu, Qi and Liu, Bin and Ye, Jieping and Yu, Nenghai},
-  journal={arXiv preprint arXiv:2410.02330},
+  booktitle={Findings of the Association for Computational Linguistics: EMNLP 2024},
+  pages={5991--6002},
   year={2024}
 }
 ```
